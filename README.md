@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mary Watiri</h1>
-<h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
+<h3 align="center">A passionate fullstack developer from Nairobi Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mary-watiri" alt="mary-watiri" /></a> </p>
 
-- 🌱 I’m currently learning **React and JavaScript.**
-
-- 💬 Ask me about **react,JavaScript,html and CSS**
+- 💬 Ask me about **react,JavaScript,html,CSS,Python,Flask**
 
 - 📫 How to reach me **wanjikum230@gmail.com**
 
