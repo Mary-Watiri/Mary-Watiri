@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,JavaScript,html,CSS,Python,Flask**
 
-- 📫 How to reach me **wanjikum230@gmail.com**
+- 📫 How to reach me **watirimary30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
