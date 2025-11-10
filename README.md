@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Watiri</h1>
-<h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
+<h3 align="center">A passionate backend developer from Nairobi Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mary-watiri&label=Profile%20views&color=0e75b6&style=flat" alt="mary-watiri" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **react,nextjs,reactnative,Python,Flask**
+- 💬 Ask me about **react,nextjs,reactnative,Python,Flask,Java,Springboot**
 
 - 📫 How to reach me **watirimary30@gmail.com**
 
